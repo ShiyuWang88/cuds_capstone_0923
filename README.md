@@ -6,7 +6,7 @@ With the expand of broadband in the US, we'd like explore the broadband situatio
 
 
 #### Authors:
-Shiyu Wang (sw3602) (Team coordinator)
+Shiyu Wang (sw3602) (Team coordinator/leader)
 Zheyu Shen (zs2491)
 Yifan Jiang (yj2681)
 Sitong Qian (sq2239)

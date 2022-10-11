@@ -23,5 +23,3 @@ Katie Jooyoung Kim
 #### Instructor:
 Vivian Zhang
 
-
-
